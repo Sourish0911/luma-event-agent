@@ -1,0 +1,9 @@
+{
+ "city_url": "https://luma.com/your-city",
+ "keywords": {"AI": 3, "startup": 2, "founder": 2, "demo": 1},
+ "threshold": 6,
+ "max_bookings_per_day": 1,
+ "auto_request_approval": false,
+ "event_language": "english_or_bilingual",
+ "retention": {"noise_days": 14, "archive_days": 365}
+}

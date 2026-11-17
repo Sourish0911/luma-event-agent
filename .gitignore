@@ -1,0 +1,15 @@
+# personal / machine-specific, created by setup.sh
+profile.json
+profile_cache.json
+interests.json
+learned.json
+mcp.json
+com.user.luma-agent.plist
+data/*.jsonl
+data/.last_compact
+logs/
+out/
+.playwright-mcp/
+__pycache__/
+_*.py
+.env

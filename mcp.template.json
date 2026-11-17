@@ -1,0 +1,3 @@
+{"mcpServers": {"browser": {"command": "npx", "args": ["-y", "@playwright/mcp@latest",
+  "--executable-path", "/Applications/Brave Browser.app/Contents/MacOS/Brave Browser",
+  "--user-data-dir", "__HOME__/.luma-agent/brave-profile"]}}}
